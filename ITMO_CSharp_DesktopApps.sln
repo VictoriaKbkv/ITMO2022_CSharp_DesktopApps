@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO_CSharp_DesktopApps_WPF
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO_CSharp_DesktopApps_Lab01Ex5.Task2", "ITMO_CSharp_DesktopApps_Lab01Ex5.Task2\ITMO_CSharp_DesktopApps_Lab01Ex5.Task2.csproj", "{F0216464-548B-473E-9BED-F3870872EA28}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO_CSharp_DesktopApps_WPF_Lab05Ex1", "ITMO_CSharp_DesktopApps_WPF_Lab05Ex1\ITMO_CSharp_DesktopApps_WPF_Lab05Ex1.csproj", "{D01807DB-ED1A-4586-8B3D-AFE0EFE4F37D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{F0216464-548B-473E-9BED-F3870872EA28}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F0216464-548B-473E-9BED-F3870872EA28}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F0216464-548B-473E-9BED-F3870872EA28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D01807DB-ED1A-4586-8B3D-AFE0EFE4F37D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D01807DB-ED1A-4586-8B3D-AFE0EFE4F37D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D01807DB-ED1A-4586-8B3D-AFE0EFE4F37D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D01807DB-ED1A-4586-8B3D-AFE0EFE4F37D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
